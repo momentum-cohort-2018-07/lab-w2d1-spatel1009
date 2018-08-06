@@ -102,4 +102,6 @@ function lesser (a, b){
 // Date objects.
 // If the birth date is after than the current date, return nothing.
 
-
+function howOld (CY, BY) {
+    
+}
